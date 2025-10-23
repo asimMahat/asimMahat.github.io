@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-I am a graduate student in Computer Science at Wichita State University with a deep passion for programming and technology. My academic and professional journey has equipped me with expertise in Software Engineering, Big Database Systems, Machine Learning, and Artificial Intelligence. Currently, I am a research assistant working in developing Intelligent Transportation Systems.
+I am a graduate student in Computer Science at Wichita State University with a deep passion for programming and technology. My academic and professional journey has equipped me with expertise in Software Engineering, Big Database Systems, Machine Learning, and Artificial Intelligence. Currently, I am a research assistant working on Autonomous Robot Navigation and ML-based models to network coverage (5G and beyong) prediction accuracy.
 
 Originally from Panauti, a small and picturesque town in Nepal, I am now based in Wichita, Kansas. My upbringing instilled in me a love for the outdoors and an adventurous spirit. I am a trail runner, having completed multiple 20 + mile races, and I’ve also proudly finished a sprint triathlon. When I’m not immersed in coding or research, you’ll often find me running, hiking, or indulging in my other hobbies—reading historical and philosophical books.
 
