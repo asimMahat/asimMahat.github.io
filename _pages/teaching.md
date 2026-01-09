@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 ## CS 540 - Operating Systems
-**Spring 2025, Wichita State University**
+**Fall 2024, Wichita State University**
 
 Topics included Fundamental principles of modern operating systems. CPU management including processes, threads, scheduling, synchronization, resource allocation and deadlocks. Memory management including paging and virtual memory. Storage management and file systems. 
 

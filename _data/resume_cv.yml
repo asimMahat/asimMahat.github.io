@@ -1,0 +1,555 @@
+cv:
+
+  name: Asim Mahat
+
+  # location: Wichita, KS
+
+  email: asimmahat2@gmail.com
+
+  phone: +1-316-670-4392
+
+  website: null
+
+  social_networks:
+
+  - network: LinkedIn
+
+    username: asim-mahat-499aa8163
+
+  - network: GitHub
+
+    username: asimMahat
+
+  sections:
+
+    # summary:
+
+    # - Highly motivated Machine Learning Engineer with 3+ years of experience in developing and deploying scalable AI/ML solutions, with a strong background in mathematics and statistics. Proficient in designing, training, and optimizing ML models, including LLMs, using TensorFlow, PyTorch, and Hugging Face. Expertise in data analysis, feature engineering, and MLOps practices like Docker and Weights & Biases. Experienced in deploying models at scale with high throughput and uptime, and analyzing results to continuously update and improve accuracy and speed. Seeking a challenging role focused on innovative AI development.
+
+    technical skills:
+
+    - label: Languages
+
+      details: Python, Go, SQL, C/C++, JavaScript, HTML/CSS, Bash Scripting
+
+    - label: Frameworks
+
+      details: TensorFlow, PyTorch, Scikit-learn, OpenCV, React, Node.js, Django, FastAPI, LangChain, LangGraph
+
+    - label: Developer Tools
+
+      details: Git, Docker, Airflow, AWS, Jenkins, Kafka, Kubernetes, Azure, Jira, Pinecone, Qdrant, FAISS
+
+    - label: Libraries
+
+      details: Pandas, Numpy, Matplotlib
+
+    - label: Certification
+
+      details: Machine Learning, Deep Learning
+
+    experience:
+
+    - company: Wichita State University
+
+      position: Graduate Teaching/Research Assistant
+
+      date:
+
+      start_date: 2024-08
+
+      end_date: 2025-12
+
+      location: Wichita, KS, USA
+
+      summary:
+
+      highlights:
+
+         - Conducting research on NextG wireless communication, designing ML-based models that improved network coverage prediction accuracy by 15% and enhanced resource allocation efficiency by 20%, validated across 1,000+ simulated network scenarios
+
+         - Using HPC clusters to accelerate large-scale model training and deployment, supporting 50+ experiments weekly and cutting model evaluation cycles from days to hours
+
+         - Designing and implementing LangGraph-driven AI Agent ecosystems with FastAPI, transitioning from a monolithic architecture to scalable microservices. Achieved a 50% reduction in latency and a 30% increase in system throughput for workflows used by 2,500+ active users
+
+         - Mentored 50+ students in Operating Systems and directed 20+ senior design teams, ensuring 100% project completion rate
+
+    - company: Cotiviti
+
+      position: Software Engineer
+
+      date: null
+
+      start_date: 2023-02
+
+      end_date: 2024-08
+
+      location: Kathmandu, Nepal
+
+      summary: null
+
+      highlights:
+
+      - Led research initiatives to develop machine learning models aimed at detecting anomalies and fraudulent claims within US healthcare datasets, enhancing detection accuracy by 30%
+
+      - Maintained and optimized REST APIs using Django Rest Framework, managing 15+ database models and 30+ serializers/views to handle 50K+ requests/day with sub-second response times
+
+      - Collaborated with cross-functional teams, including data scientists and healthcare professionals, to design and implement AI solutions that comply with **HIPAA** regulations
+
+      - Implemented Docker to containerize applications, ensuring consistent and reproducible environments
+
+      - Optimized SQL stored procedures, views, and DB objects, reducing average query response time by 25% across core analytics pipelines
+
+  
+
+    - company: Code Himalaya Pvt Ltd
+
+      position: Software Engineer
+
+      date: null
+
+      start_date: 2022-06
+
+      end_date: 2022-12
+
+      location: Lalitpur, Nepal
+
+      summary: null
+
+      highlights:
+
+      - Developed and deployed RESTful APIs using Django Rest Framework and Docker, improving backend scalability and deployment speed by 40%
+
+      - Contributed to the eKYC module of a fintech application, automating user verification and reducing onboarding time by 60%, enhancing customer experience
+
+      - Diagnosed and resolved production issues in staging and live environments using Sentry, decreasing system errors by 95% and boosting user satisfaction scores by 30%
+
+      - Optimized legacy database queries, reducing query execution time by 70% and increasing overall application performance by 45%
+
+    - company: LIS Nepal Pvt Ltd
+
+      position: Software Engineer Intern
+
+      date: null
+
+      start_date: 2022-01
+
+      end_date: 2022-04
+
+      location: Lalitpur, Nepal
+
+      summary: null
+
+      highlights:
+
+      - Developed Python scripts for ETL/ELT workflows, automating data transformation
+
+        and ensuring end-to-end data integrity
+
+      - Built and optimized Azure Data Factory pipelines to load data into Snowflake,
+
+        reducing data load time by 80%
+
+      - Monitored data pipelines in Azure and resolved SQL-based batch processing
+
+        errors
+
+      - Supported delivery of a large-scale data warehouse for retail clients, contributing
+
+        to data modeling and pipeline setup in Snowflake
+
+    education:
+
+      - institution: Wichita State University
+
+        area: Computer Science
+
+        degree: Masters of Science
+
+        date:
+
+        start_date: 2024-08
+
+        end_date: 2026-05
+
+        location: Wichita, KS, USA
+
+        summary:
+
+        highlights:
+
+      
+
+      # - institution: Stanford University (Online)
+
+      #   area: Machine Learning
+
+      #   degree: Certificate Course
+
+      #   date:
+
+      #   start_date: 2019-08
+
+      #   end_date: 2019-12
+
+      #   location: Online
+
+      #   summary:
+
+      #   highlights:
+
+  
+
+      - institution: Kathmandu University
+
+        area: Computer Science
+
+        degree: Bachelors of Science
+
+        date:
+
+        start_date: 2017-09
+
+        end_date: 2022-05
+
+        location: Kavre, Nepal
+
+        summary:
+
+        highlights:
+
+          # - 'GPA: 3.9/4.0, ranked 1st out of 100 students'
+
+          # - 'Awards: Best Semester Project, Hackathon Winner'
+
+    
+
+    Publications & Contributions:
+
+      - bullet: 'Paper titled "NextG Base Station Placement and Failure Mitigation" accepted for [**IEEE ICNC**](http://www.conf-icnc.org/2026/) (International Conference on Computing, Networking and Communications) (**Acceptance Rate: 27%**) 2026, happening at Maui, Hawaii'
+
+      - bullet: 'Poster: "LSTM-Based Stock Price Forecasting with PSO and GA Optimization" – Presented at Kansas Data Science Consortium (KDSC), 2025.'
+
+      - bullet: 'Open Source Contributor at [safe-mcp](https://github.com/SAFE-MCP/safe-mcp)'
+
+    
+
+    Projects:
+
+      - bullet: '[Zero Shot Traffic Signal Control](https://github.com/asimMahat/zs_cot_traffic_control) - Engineered an adaptive traffic signal control agent using Llama 3 (via Ollama) for zero-shot reasoning, reducing average intersection wait times by 35% in simulation through real-time decision-making without task-specific training '
+
+      - bullet: '[Stock Market Prediction](https://github.com/asimMahat/Stock-Market-Prediction) - Achieved 92% directional accuracy predicting stock trends using LSTM. Work selected for poster presentation at KDSC 2025; full research paper currently in preparation'
+
+    # License and Certificates:
+
+    #   - bullet: 'Deep Learning A-Z by Udemy'
+
+    #   - bullet: 'Machine Learning by Coursera'
+
+design:
+
+  theme: sb2nov
+
+  page:
+
+    size: us-letter
+
+    top_margin: 1.2cm
+
+    bottom_margin: 1.2cm
+
+    left_margin: 1.2cm
+
+    right_margin: 1.2cm
+
+    show_page_numbering: false
+
+    show_last_updated_date: false
+
+  colors:
+
+    text: rgb(0, 0, 0)
+
+    name: rgb(0, 0, 0)
+
+    connections: rgb(0, 0, 0)
+
+    section_titles: rgb(0, 0, 0)
+
+    links: rgb(0, 79, 144)
+
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+
+  text:
+
+    font_family: New Computer Modern
+
+    font_size: 9pt
+
+    leading: 0.5em
+
+    alignment: justified
+
+    date_and_location_column_alignment: right
+
+  links:
+
+    underline: true
+
+    use_external_link_icon: false
+
+  header:
+
+    name_font_family: New Computer Modern
+
+    name_font_size: 28pt
+
+    name_bold: true
+
+    small_caps_for_name: false
+
+    photo_width: 3.5cm
+
+    vertical_space_between_name_and_connections: 0.5cm
+
+    vertical_space_between_connections_and_first_section: 0.5cm
+
+    horizontal_space_between_connections: 0.5cm
+
+    connections_font_family: New Computer Modern
+
+    separator_between_connections: ''
+
+    use_icons_for_connections: true
+
+    use_urls_as_placeholders_for_connections: false
+
+    make_connections_links: true
+
+    alignment: center
+
+  section_titles:
+
+    type: with-full-line
+
+    font_family: New Computer Modern
+
+    font_size: 1.3em
+
+    bold: true
+
+    small_caps: false
+
+    line_thickness: 0.5pt
+
+    vertical_space_above: 0.3cm
+
+    vertical_space_below: 0.2cm
+
+  entries:
+
+    date_and_location_width: 3.8cm
+
+    left_and_right_margin: 0.1cm
+
+    horizontal_space_between_columns: 0.05cm
+
+    vertical_space_between_entries: 0.5em
+
+    allow_page_break_in_sections: true
+
+    allow_page_break_in_entries: true
+
+    short_second_row: false
+
+    show_time_spans_in: []
+
+  highlights:
+
+    bullet: ◦
+
+    nested_bullet: '-'
+
+    top_margin: 0.07cm
+
+    left_margin: 0.3cm
+
+    vertical_space_between_highlights: 0.15cm
+
+    horizontal_space_between_bullet_and_highlight: 0.3em
+
+    summary_left_margin: 0cm
+
+  entry_types:
+
+    one_line_entry:
+
+      template: '**LABEL:** DETAILS'
+
+    education_entry:
+
+      main_column_first_row_template: |-
+
+        **INSTITUTION**
+
+        *DEGREE in AREA*
+
+      degree_column_template:
+
+      degree_column_width: 1cm
+
+      main_column_second_row_template: |-
+
+        SUMMARY
+
+        HIGHLIGHTS
+
+      date_and_location_column_template: |-
+
+        *LOCATION*
+
+        *DATE*
+
+    normal_entry:
+
+      main_column_first_row_template: '**NAME**'
+
+      main_column_second_row_template: |-
+
+        SUMMARY
+
+        HIGHLIGHTS
+
+      date_and_location_column_template: |-
+
+        *LOCATION*
+
+        *DATE*
+
+    experience_entry:
+
+      main_column_first_row_template: |-
+
+        **POSITION**
+
+        *COMPANY*
+
+      main_column_second_row_template: |-
+
+        SUMMARY
+
+        HIGHLIGHTS
+
+      date_and_location_column_template: |-
+
+        *LOCATION*
+
+        *DATE*
+
+    publication_entry:
+
+      main_column_first_row_template: '**TITLE**'
+
+      main_column_second_row_template: |-
+
+        AUTHORS
+
+        URL (JOURNAL)
+
+      main_column_second_row_without_journal_template: |-
+
+        AUTHORS
+
+        URL
+
+      main_column_second_row_without_url_template: |-
+
+        AUTHORS
+
+        JOURNAL
+
+      date_and_location_column_template: DATE
+
+locale:
+
+  language: en
+
+  phone_number_format: national
+
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+
+  last_updated_date_template: Last updated in TODAY
+
+  date_template: MONTH_ABBREVIATION YEAR
+
+  month: month
+
+  months: months
+
+  year: year
+
+  years: years
+
+  present: present
+
+  to: –
+
+  abbreviations_for_months:
+
+    - Jan
+
+    - Feb
+
+    - Mar
+
+    - Apr
+
+    - May
+
+    - June
+
+    - July
+
+    - Aug
+
+    - Sept
+
+    - Oct
+
+    - Nov
+
+    - Dec
+
+  full_names_of_months:
+
+    - January
+
+    - February
+
+    - March
+
+    - April
+
+    - May
+
+    - June
+
+    - July
+
+    - August
+
+    - September
+
+    - October
+
+    - November
+
+    - December
+
+rendercv_settings:
+
+  date: '2025-05-01'
+
+  bold_keywords: []
+
+
