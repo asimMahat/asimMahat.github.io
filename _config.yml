@@ -90,7 +90,7 @@ blog:
   enabled: false
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: Graduate student in Computer Science at Wichita State University
+blog_description: Software Engineer with AI/ML experience
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
