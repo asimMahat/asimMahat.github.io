@@ -6,7 +6,7 @@ subtitle: <a href='https://www.wichita.edu/'>Wichita State University</a> 2330 N
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Wichita State University, Jabara Hall</p>
