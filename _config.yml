@@ -9,7 +9,7 @@ last_name: Mahat
 contact_note: >
   I am mostly active on Linkedin.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Graduate student in Computer Science at Wichita State University. Research in NextG Wireless Communication, Machine Learning, and Artificial Intelligence.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -90,7 +90,7 @@ blog:
   enabled: false
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: Graduate student in Computer Science at Wichita State University
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
