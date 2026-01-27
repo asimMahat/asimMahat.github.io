@@ -171,13 +171,5 @@
       "highlights": ["LSTM", "Time series", "Financial forecasting", "92% accuracy"],
       "url": "https://github.com/asimMahat/Stock-Market-Prediction"
     }
-  ],
-  "research": [
-    {
-      "name": "Add your research title here",
-      "summary": "Add your research description here",
-      "url": "",
-      "highlights": []
-    }
   ]
 }
