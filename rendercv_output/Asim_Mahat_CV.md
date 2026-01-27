@@ -5,7 +5,6 @@
 - LinkedIn: [asim-mahat-499aa8163](https://linkedin.com/in/asim-mahat-499aa8163)
 - GitHub: [asimMahat](https://github.com/asimMahat)
 
-
 # Technical Skills
 
 - Languages: Python, Go, SQL, C/C++, JavaScript, HTML/CSS, Bash Scripting
@@ -13,6 +12,7 @@
 - Developer Tools: Git, Docker, Airflow, AWS, Jenkins, Kafka, Kubernetes, Azure, Jira, Pinecone, Qdrant, FAISS
 - Libraries: Pandas, Numpy, Matplotlib
 - Certification: Machine Learning, Deep Learning
+
 # Experience
 
 ## Wichita State University, Graduate Teaching/Research Assistant
@@ -69,7 +69,8 @@
 - Paper titled "NextG Base Station Placement and Failure Mitigation" accepted for [**IEEE ICNC**](http://www.conf-icnc.org/2026/) (International Conference on Computing, Networking and Communications) (**Acceptance Rate: 27%**) 2026, happening at Maui, Hawaii
 - Poster: "LSTM-Based Stock Price Forecasting with PSO and GA Optimization" – Presented at Kansas Data Science Consortium (KDSC), 2025.
 - Open Source Contributor at [safe-mcp](https://github.com/SAFE-MCP/safe-mcp)
+
 # Projects
 
-- [Zero Shot Traffic Signal Control](https://github.com/asimMahat/zs_cot_traffic_control) - Engineered an adaptive traffic signal control agent using Llama 3 (via Ollama) for zero-shot reasoning, reducing average intersection wait times by 35% in simulation through real-time decision-making without task-specific training 
+- [Zero Shot Traffic Signal Control](https://github.com/asimMahat/zs_cot_traffic_control) - Engineered an adaptive traffic signal control agent using Llama 3 (via Ollama) for zero-shot reasoning, reducing average intersection wait times by 35% in simulation through real-time decision-making without task-specific training
 - [Stock Market Prediction](https://github.com/asimMahat/Stock-Market-Prediction) - Achieved 92% directional accuracy predicting stock trends using LSTM. Work selected for poster presentation at KDSC 2025; full research paper currently in preparation

@@ -2,14 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description:
 nav: true
 nav_order: 7
 ---
 
 ## CS 540 - Operating Systems
+
 **Fall 2024, Wichita State University**  
-*Graduate Teaching Assistant*
+_Graduate Teaching Assistant_
 
 Served as a Graduate Teaching Assistant for the Operating Systems course, providing instructional support and mentoring to 50+ students. The course covered fundamental principles of modern operating systems, including:
 
@@ -20,8 +21,9 @@ Served as a Graduate Teaching Assistant for the Operating Systems course, provid
 Assisted students with course concepts, provided guidance on assignments and projects, and facilitated understanding of complex operating system principles through one-on-one and group mentoring sessions.
 
 ## CS 598 - Senior Design Project I and APEN-402 Senior Project II
+
 **Spring 2025, Wichita State University**  
-*Project Supervisor*
+_Project Supervisor_
 
 Supervised and directed 20+ senior design teams across both CS 598 (Senior Design Project I) and APEN-402 (Senior Project II) courses. Responsibilities included:
 
@@ -32,4 +34,3 @@ Supervised and directed 20+ senior design teams across both CS 598 (Senior Desig
 - Achieving a 100% project completion rate across all supervised teams
 
 Guided students through the complete software development lifecycle, from initial concept and requirements analysis to final implementation and presentation, helping them develop professional-grade projects that demonstrate their technical skills and engineering capabilities.
-

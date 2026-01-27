@@ -31,66 +31,27 @@
     {
       "name": "Languages",
       "level": "",
-      "keywords": [
-        "Python",
-        "Go",
-        "SQL",
-        "C/C++",
-        "JavaScript",
-        "HTML/CSS",
-        "Bash Scripting"
-      ]
+      "keywords": ["Python", "Go", "SQL", "C/C++", "JavaScript", "HTML/CSS", "Bash Scripting"]
     },
     {
       "name": "Frameworks",
       "level": "",
-      "keywords": [
-        "TensorFlow",
-        "PyTorch",
-        "Scikit-learn",
-        "OpenCV",
-        "React",
-        "Node.js",
-        "Django",
-        "FastAPI",
-        "LangChain",
-        "LangGraph"
-      ]
+      "keywords": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV", "React", "Node.js", "Django", "FastAPI", "LangChain", "LangGraph"]
     },
     {
       "name": "Developer Tools",
       "level": "",
-      "keywords": [
-        "Git",
-        "Docker",
-        "Airflow",
-        "AWS",
-        "Jenkins",
-        "Kafka",
-        "Kubernetes",
-        "Azure",
-        "Jira",
-        "Pinecone",
-        "Qdrant",
-        "FAISS"
-      ]
+      "keywords": ["Git", "Docker", "Airflow", "AWS", "Jenkins", "Kafka", "Kubernetes", "Azure", "Jira", "Pinecone", "Qdrant", "FAISS"]
     },
     {
       "name": "Libraries",
       "level": "",
-      "keywords": [
-        "Pandas",
-        "Numpy",
-        "Matplotlib"
-      ]
+      "keywords": ["Pandas", "Numpy", "Matplotlib"]
     },
     {
       "name": "Certification",
       "level": "",
-      "keywords": [
-        "Machine Learning",
-        "Deep Learning"
-      ]
+      "keywords": ["Machine Learning", "Deep Learning"]
     }
   ],
   "work": [

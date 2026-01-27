@@ -1,5 +1,4 @@
 cv:
-
   name: Asim Mahat
 
   # location: Wichita, KS
@@ -11,145 +10,134 @@ cv:
   website: null
 
   social_networks:
+    - network: LinkedIn
 
-  - network: LinkedIn
+      username: asim-mahat-499aa8163
 
-    username: asim-mahat-499aa8163
+    - network: GitHub
 
-  - network: GitHub
-
-    username: asimMahat
+      username: asimMahat
 
   sections:
-
     # summary:
 
     # - Highly motivated Machine Learning Engineer with 3+ years of experience in developing and deploying scalable AI/ML solutions, with a strong background in mathematics and statistics. Proficient in designing, training, and optimizing ML models, including LLMs, using TensorFlow, PyTorch, and Hugging Face. Expertise in data analysis, feature engineering, and MLOps practices like Docker and Weights & Biases. Experienced in deploying models at scale with high throughput and uptime, and analyzing results to continuously update and improve accuracy and speed. Seeking a challenging role focused on innovative AI development.
 
     technical skills:
+      - label: Languages
 
-    - label: Languages
+        details: Python, Go, SQL, C/C++, JavaScript, HTML/CSS, Bash Scripting
 
-      details: Python, Go, SQL, C/C++, JavaScript, HTML/CSS, Bash Scripting
+      - label: Frameworks
 
-    - label: Frameworks
+        details: TensorFlow, PyTorch, Scikit-learn, OpenCV, React, Node.js, Django, FastAPI, LangChain, LangGraph
 
-      details: TensorFlow, PyTorch, Scikit-learn, OpenCV, React, Node.js, Django, FastAPI, LangChain, LangGraph
+      - label: Developer Tools
 
-    - label: Developer Tools
+        details: Git, Docker, Airflow, AWS, Jenkins, Kafka, Kubernetes, Azure, Jira, Pinecone, Qdrant, FAISS
 
-      details: Git, Docker, Airflow, AWS, Jenkins, Kafka, Kubernetes, Azure, Jira, Pinecone, Qdrant, FAISS
+      - label: Libraries
 
-    - label: Libraries
+        details: Pandas, Numpy, Matplotlib
 
-      details: Pandas, Numpy, Matplotlib
+      - label: Certification
 
-    - label: Certification
-
-      details: Machine Learning, Deep Learning
+        details: Machine Learning, Deep Learning
 
     experience:
+      - company: Wichita State University
 
-    - company: Wichita State University
+        position: Graduate Teaching/Research Assistant
 
-      position: Graduate Teaching/Research Assistant
+        date:
 
-      date:
+        start_date: 2024-08
 
-      start_date: 2024-08
+        end_date: 2025-12
 
-      end_date: 2025-12
+        location: Wichita, KS, USA
 
-      location: Wichita, KS, USA
+        highlights:
+          - Conducting research on NextG wireless communication, designing ML-based models that improved network coverage prediction accuracy by 15% and enhanced resource allocation efficiency by 20%, validated across 1,000+ simulated network scenarios
 
-      highlights:
+          - Using HPC clusters to accelerate large-scale model training and deployment, supporting 50+ experiments weekly and cutting model evaluation cycles from days to hours
 
-         - Conducting research on NextG wireless communication, designing ML-based models that improved network coverage prediction accuracy by 15% and enhanced resource allocation efficiency by 20%, validated across 1,000+ simulated network scenarios
+          - Designing and implementing LangGraph-driven AI Agent ecosystems with FastAPI, transitioning from a monolithic architecture to scalable microservices. Achieved a 50% reduction in latency and a 30% increase in system throughput for workflows used by 2,500+ active users
 
-         - Using HPC clusters to accelerate large-scale model training and deployment, supporting 50+ experiments weekly and cutting model evaluation cycles from days to hours
+          - Mentored 50+ students in Operating Systems and directed 20+ senior design teams, ensuring 100% project completion rate
 
-         - Designing and implementing LangGraph-driven AI Agent ecosystems with FastAPI, transitioning from a monolithic architecture to scalable microservices. Achieved a 50% reduction in latency and a 30% increase in system throughput for workflows used by 2,500+ active users
+      - company: Cotiviti
 
-         - Mentored 50+ students in Operating Systems and directed 20+ senior design teams, ensuring 100% project completion rate
+        position: Software Engineer
 
-    - company: Cotiviti
+        date: null
 
-      position: Software Engineer
+        start_date: 2023-02
 
-      date: null
+        end_date: 2024-08
 
-      start_date: 2023-02
+        location: Kathmandu, Nepal
 
-      end_date: 2024-08
+        summary: null
 
-      location: Kathmandu, Nepal
+        highlights:
+          - Led research initiatives to develop machine learning models aimed at detecting anomalies and fraudulent claims within US healthcare datasets, enhancing detection accuracy by 30%
 
-      summary: null
+          - Maintained and optimized REST APIs using Django Rest Framework, managing 15+ database models and 30+ serializers/views to handle 50K+ requests/day with sub-second response times
 
-      highlights:
+          - Collaborated with cross-functional teams, including data scientists and healthcare professionals, to design and implement AI solutions that comply with **HIPAA** regulations
 
-      - Led research initiatives to develop machine learning models aimed at detecting anomalies and fraudulent claims within US healthcare datasets, enhancing detection accuracy by 30%
+          - Implemented Docker to containerize applications, ensuring consistent and reproducible environments
 
-      - Maintained and optimized REST APIs using Django Rest Framework, managing 15+ database models and 30+ serializers/views to handle 50K+ requests/day with sub-second response times
+          - Optimized SQL stored procedures, views, and DB objects, reducing average query response time by 25% across core analytics pipelines
 
-      - Collaborated with cross-functional teams, including data scientists and healthcare professionals, to design and implement AI solutions that comply with **HIPAA** regulations
+      - company: Code Himalaya Pvt Ltd
 
-      - Implemented Docker to containerize applications, ensuring consistent and reproducible environments
+        position: Software Engineer
 
-      - Optimized SQL stored procedures, views, and DB objects, reducing average query response time by 25% across core analytics pipelines
+        date: null
 
-  
+        start_date: 2022-06
 
-    - company: Code Himalaya Pvt Ltd
+        end_date: 2022-12
 
-      position: Software Engineer
+        location: Lalitpur, Nepal
 
-      date: null
+        summary: null
 
-      start_date: 2022-06
+        highlights:
+          - Developed and deployed RESTful APIs using Django Rest Framework and Docker, improving backend scalability and deployment speed by 40%
 
-      end_date: 2022-12
+          - Contributed to the eKYC module of a fintech application, automating user verification and reducing onboarding time by 60%, enhancing customer experience
 
-      location: Lalitpur, Nepal
+          - Diagnosed and resolved production issues in staging and live environments using Sentry, decreasing system errors by 95% and boosting user satisfaction scores by 30%
 
-      summary: null
+          - Optimized legacy database queries, reducing query execution time by 70% and increasing overall application performance by 45%
 
-      highlights:
+      - company: LIS Nepal Pvt Ltd
 
-      - Developed and deployed RESTful APIs using Django Rest Framework and Docker, improving backend scalability and deployment speed by 40%
+        position: Software Engineer Intern
 
-      - Contributed to the eKYC module of a fintech application, automating user verification and reducing onboarding time by 60%, enhancing customer experience
+        date: null
 
-      - Diagnosed and resolved production issues in staging and live environments using Sentry, decreasing system errors by 95% and boosting user satisfaction scores by 30%
+        start_date: 2022-01
 
-      - Optimized legacy database queries, reducing query execution time by 70% and increasing overall application performance by 45%
+        end_date: 2022-04
 
-    - company: LIS Nepal Pvt Ltd
+        location: Lalitpur, Nepal
 
-      position: Software Engineer Intern
+        summary: null
 
-      date: null
+        highlights:
+          - Developed Python scripts for ETL/ELT workflows, automating data transformation and ensuring end-to-end data integrity
 
-      start_date: 2022-01
+          - Built and optimized Azure Data Factory pipelines to load data into Snowflake, reducing data load time by 80%
 
-      end_date: 2022-04
+          - Monitored data pipelines in Azure and resolved SQL-based batch processing errors
 
-      location: Lalitpur, Nepal
-
-      summary: null
-
-      highlights:
-
-      - Developed Python scripts for ETL/ELT workflows, automating data transformation and ensuring end-to-end data integrity
-
-      - Built and optimized Azure Data Factory pipelines to load data into Snowflake, reducing data load time by 80%
-
-      - Monitored data pipelines in Azure and resolved SQL-based batch processing errors
-
-      - Supported delivery of a large-scale data warehouse for retail clients, contributing to data modeling and pipeline setup in Snowflake
+          - Supported delivery of a large-scale data warehouse for retail clients, contributing to data modeling and pipeline setup in Snowflake
 
     education:
-
       - institution: Wichita State University
 
         area: Computer Science
@@ -182,8 +170,6 @@ cv:
 
       #   highlights:
 
-  
-
       - institution: Kathmandu University
 
         area: Computer Science
@@ -198,27 +184,20 @@ cv:
 
         location: Kavre, Nepal
 
-    
-
     Publications & Contributions:
-
       - bullet: 'Paper titled "NextG Base Station Placement and Failure Mitigation" accepted for [**IEEE ICNC**](http://www.conf-icnc.org/2026/) (International Conference on Computing, Networking and Communications) (**Acceptance Rate: 27%**) 2026, happening at Maui, Hawaii'
 
       - bullet: 'Poster: "LSTM-Based Stock Price Forecasting with PSO and GA Optimization" – Presented at Kansas Data Science Consortium (KDSC), 2025.'
 
-      - bullet: 'Open Source Contributor at [safe-mcp](https://github.com/SAFE-MCP/safe-mcp)'
-
-    
+      - bullet: "Open Source Contributor at [safe-mcp](https://github.com/SAFE-MCP/safe-mcp)"
 
     Projects:
+      - bullet: "[Zero Shot Traffic Signal Control](https://github.com/asimMahat/zs_cot_traffic_control) - Engineered an adaptive traffic signal control agent using Llama 3 (via Ollama) for zero-shot reasoning, reducing average intersection wait times by 35% in simulation through real-time decision-making without task-specific training "
 
-      - bullet: '[Zero Shot Traffic Signal Control](https://github.com/asimMahat/zs_cot_traffic_control) - Engineered an adaptive traffic signal control agent using Llama 3 (via Ollama) for zero-shot reasoning, reducing average intersection wait times by 35% in simulation through real-time decision-making without task-specific training '
-
-      - bullet: '[Stock Market Prediction](https://github.com/asimMahat/Stock-Market-Prediction) - Achieved 92% directional accuracy predicting stock trends using LSTM. Work selected for poster presentation at KDSC 2025; full research paper currently in preparation'
+      - bullet: "[Stock Market Prediction](https://github.com/asimMahat/Stock-Market-Prediction) - Achieved 92% directional accuracy predicting stock trends using LSTM. Work selected for poster presentation at KDSC 2025; full research paper currently in preparation"
 
     research:
-
-      - bullet: 'Add your research item here'
+      - bullet: "Add your research item here"
 
     # License and Certificates:
 
@@ -227,11 +206,9 @@ cv:
     #   - bullet: 'Machine Learning by Coursera'
 
 design:
-
   theme: sb2nov
 
   page:
-
     size: us-letter
 
     top_margin: 1.2cm
@@ -247,7 +224,6 @@ design:
     show_last_updated_date: false
 
   colors:
-
     text: rgb(0, 0, 0)
 
     name: rgb(0, 0, 0)
@@ -261,7 +237,6 @@ design:
     last_updated_date_and_page_numbering: rgb(128, 128, 128)
 
   text:
-
     font_family: New Computer Modern
 
     font_size: 9pt
@@ -273,13 +248,11 @@ design:
     date_and_location_column_alignment: right
 
   links:
-
     underline: true
 
     use_external_link_icon: false
 
   header:
-
     name_font_family: New Computer Modern
 
     name_font_size: 28pt
@@ -298,7 +271,7 @@ design:
 
     connections_font_family: New Computer Modern
 
-    separator_between_connections: ''
+    separator_between_connections: ""
 
     use_icons_for_connections: true
 
@@ -309,7 +282,6 @@ design:
     alignment: center
 
   section_titles:
-
     type: with-full-line
 
     font_family: New Computer Modern
@@ -327,7 +299,6 @@ design:
     vertical_space_below: 0.1cm
 
   entries:
-
     date_and_location_width: 3.8cm
 
     left_and_right_margin: 0.1cm
@@ -345,10 +316,9 @@ design:
     show_time_spans_in: []
 
   highlights:
-
     bullet: ◦
 
-    nested_bullet: '-'
+    nested_bullet: "-"
 
     top_margin: 0.05cm
 
@@ -361,13 +331,10 @@ design:
     summary_left_margin: 0cm
 
   entry_types:
-
     one_line_entry:
-
-      template: '**LABEL:** DETAILS'
+      template: "**LABEL:** DETAILS"
 
     education_entry:
-
       main_column_first_row_template: |-
 
         **INSTITUTION**
@@ -391,8 +358,7 @@ design:
         *DATE*
 
     normal_entry:
-
-      main_column_first_row_template: '**NAME**'
+      main_column_first_row_template: "**NAME**"
 
       main_column_second_row_template: |-
 
@@ -407,7 +373,6 @@ design:
         *DATE*
 
     experience_entry:
-
       main_column_first_row_template: |-
 
         **POSITION**
@@ -427,8 +392,7 @@ design:
         *DATE*
 
     publication_entry:
-
-      main_column_first_row_template: '**TITLE**'
+      main_column_first_row_template: "**TITLE**"
 
       main_column_second_row_template: |-
 
@@ -451,7 +415,6 @@ design:
       date_and_location_column_template: DATE
 
 locale:
-
   language: en
 
   phone_number_format: national
@@ -475,7 +438,6 @@ locale:
   to: –
 
   abbreviations_for_months:
-
     - Jan
 
     - Feb
@@ -501,7 +463,6 @@ locale:
     - Dec
 
   full_names_of_months:
-
     - January
 
     - February
@@ -527,10 +488,6 @@ locale:
     - December
 
 rendercv_settings:
-
-  date: '2025-05-01'
+  date: "2025-05-01"
 
   bold_keywords: []
-
-
-
