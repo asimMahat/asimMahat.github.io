@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper "NextG Base Station Placement and Failure Mitigation" accepted at IEEE ICNC 2026 (International Conference on Computing, Networking and Communications) Technical Program, Maui, Hawaii. Acceptance rate: 27%.
+Paper "NextG Base Station Placement and Failure Mitigation" accepted at [IEEE ICNC 2026](http://www.conf-icnc.org/2026/) (International Conference on Computing, Networking and Communications) Technical Program, Maui, Hawaii. Acceptance rate: 27%.
