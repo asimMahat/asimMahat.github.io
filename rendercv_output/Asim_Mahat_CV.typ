@@ -17,8 +17,8 @@
 #let design-section-titles-line-thickness = 0.5pt
 #let design-section-titles-font-size = 1.3em
 #let design-section-titles-type = "with-full-line"
-#let design-section-titles-vertical-space-above = 0.3cm
-#let design-section-titles-vertical-space-below = 0.2cm
+#let design-section-titles-vertical-space-above = 0.15cm
+#let design-section-titles-vertical-space-below = 0.1cm
 #let design-section-titles-small-caps = false
 #let design-links-use-external-link-icon = false
 #let design-text-font-size = 9pt
@@ -42,11 +42,11 @@
 #let design-highlights-summary-left-margin = 0cm
 #let design-highlights-bullet = "◦"
 #let design-highlights-nested-bullet = "-"
-#let design-highlights-top-margin = 0.07cm
+#let design-highlights-top-margin = 0.05cm
 #let design-highlights-left-margin = 0.3cm
-#let design-highlights-vertical-space-between-highlights = 0.15cm
+#let design-highlights-vertical-space-between-highlights = 0.08cm
 #let design-highlights-horizontal-space-between-bullet-and-highlights = 0.3em
-#let design-entries-vertical-space-between-entries = 0.5em
+#let design-entries-vertical-space-between-entries = 0.2em
 #let design-entries-date-and-location-width = 3.8cm
 #let design-entries-allow-page-break-in-entries = true
 #let design-entries-horizontal-space-between-columns = 0.05cm
@@ -572,15 +572,7 @@
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Developed Python scripts for ETL\/ELT workflows, automating data transformation
-
-and ensuring end-to-end data integrity],[Built and optimized Azure Data Factory pipelines to load data into Snowflake,
-
-reducing data load time by 80\%],[Monitored data pipelines in Azure and resolved SQL-based batch processing
-
-errors],[Supported delivery of a large-scale data warehouse for retail clients, contributing
-
-to data modeling and pipeline setup in Snowflake],)
+    #v(design-highlights-top-margin);#highlights([Developed Python scripts for ETL\/ELT workflows, automating data transformation and ensuring end-to-end data integrity],[Built and optimized Azure Data Factory pipelines to load data into Snowflake, reducing data load time by 80\%],[Monitored data pipelines in Azure and resolved SQL-based batch processing errors],[Supported delivery of a large-scale data warehouse for retail clients, contributing to data modeling and pipeline setup in Snowflake],)
   ],
 )
 

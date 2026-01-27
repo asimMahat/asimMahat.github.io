@@ -46,7 +46,7 @@ layout: default
               <i class="fa-solid fa-download"></i> Download PDF
             </a>
           </div>
-          <div class="pdf-viewer-container" style="width: 100%; height: 800px; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
+          <div class="pdf-viewer-container" style="width: 100%; height: 550px; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
             <iframe
               src="{{ pdf_url }}#toolbar=1&navpanes=1&scrollbar=1"
               style="width: 100%; height: 100%; border: none;"
@@ -134,7 +134,7 @@ layout: default
               <i class="fa-solid fa-download"></i> Download PDF
             </a>
           </div>
-          <div class="pdf-viewer-container" style="width: 100%; height: 800px; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
+          <div class="pdf-viewer-container" style="width: 100%; height: 550px; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
             <iframe
               src="{{ pdf_url }}#toolbar=1&navpanes=1&scrollbar=1"
               style="width: 100%; height: 100%; border: none;"
@@ -176,6 +176,8 @@ layout: default
                   {% include resume/skills.liquid %}
                 {% when 'publications' %}
                   {% include resume/publications.liquid %}
+                {% when 'research' %}
+                  {% include resume/projects.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
                 {% when 'interests' %}

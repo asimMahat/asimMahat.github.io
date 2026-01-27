@@ -47,14 +47,10 @@
 
 - Jan 2022 – Apr 2022
 - Lalitpur, Nepal
-- Developed Python scripts for ETL/ELT workflows, automating data transformation
-and ensuring end-to-end data integrity
-- Built and optimized Azure Data Factory pipelines to load data into Snowflake,
-reducing data load time by 80%
-- Monitored data pipelines in Azure and resolved SQL-based batch processing
-errors
-- Supported delivery of a large-scale data warehouse for retail clients, contributing
-to data modeling and pipeline setup in Snowflake
+- Developed Python scripts for ETL/ELT workflows, automating data transformation and ensuring end-to-end data integrity
+- Built and optimized Azure Data Factory pipelines to load data into Snowflake, reducing data load time by 80%
+- Monitored data pipelines in Azure and resolved SQL-based batch processing errors
+- Supported delivery of a large-scale data warehouse for retail clients, contributing to data modeling and pipeline setup in Snowflake
 
 # Education
 

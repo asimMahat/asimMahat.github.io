@@ -62,8 +62,6 @@ cv:
 
       location: Wichita, KS, USA
 
-      summary:
-
       highlights:
 
          - Conducting research on NextG wireless communication, designing ML-based models that improved network coverage prediction accuracy by 15% and enhanced resource allocation efficiency by 20%, validated across 1,000+ simulated network scenarios
@@ -142,21 +140,13 @@ cv:
 
       highlights:
 
-      - Developed Python scripts for ETL/ELT workflows, automating data transformation
+      - Developed Python scripts for ETL/ELT workflows, automating data transformation and ensuring end-to-end data integrity
 
-        and ensuring end-to-end data integrity
+      - Built and optimized Azure Data Factory pipelines to load data into Snowflake, reducing data load time by 80%
 
-      - Built and optimized Azure Data Factory pipelines to load data into Snowflake,
+      - Monitored data pipelines in Azure and resolved SQL-based batch processing errors
 
-        reducing data load time by 80%
-
-      - Monitored data pipelines in Azure and resolved SQL-based batch processing
-
-        errors
-
-      - Supported delivery of a large-scale data warehouse for retail clients, contributing
-
-        to data modeling and pipeline setup in Snowflake
+      - Supported delivery of a large-scale data warehouse for retail clients, contributing to data modeling and pipeline setup in Snowflake
 
     education:
 
@@ -173,12 +163,6 @@ cv:
         end_date: 2026-05
 
         location: Wichita, KS, USA
-
-        summary:
-
-        highlights:
-
-      
 
       # - institution: Stanford University (Online)
 
@@ -214,14 +198,6 @@ cv:
 
         location: Kavre, Nepal
 
-        summary:
-
-        highlights:
-
-          # - 'GPA: 3.9/4.0, ranked 1st out of 100 students'
-
-          # - 'Awards: Best Semester Project, Hackathon Winner'
-
     
 
     Publications & Contributions:
@@ -239,6 +215,10 @@ cv:
       - bullet: '[Zero Shot Traffic Signal Control](https://github.com/asimMahat/zs_cot_traffic_control) - Engineered an adaptive traffic signal control agent using Llama 3 (via Ollama) for zero-shot reasoning, reducing average intersection wait times by 35% in simulation through real-time decision-making without task-specific training '
 
       - bullet: '[Stock Market Prediction](https://github.com/asimMahat/Stock-Market-Prediction) - Achieved 92% directional accuracy predicting stock trends using LSTM. Work selected for poster presentation at KDSC 2025; full research paper currently in preparation'
+
+    research:
+
+      - bullet: 'Add your research item here'
 
     # License and Certificates:
 
@@ -342,9 +322,9 @@ design:
 
     line_thickness: 0.5pt
 
-    vertical_space_above: 0.3cm
+    vertical_space_above: 0.15cm
 
-    vertical_space_below: 0.2cm
+    vertical_space_below: 0.1cm
 
   entries:
 
@@ -354,7 +334,7 @@ design:
 
     horizontal_space_between_columns: 0.05cm
 
-    vertical_space_between_entries: 0.5em
+    vertical_space_between_entries: 0.2em
 
     allow_page_break_in_sections: true
 
@@ -370,11 +350,11 @@ design:
 
     nested_bullet: '-'
 
-    top_margin: 0.07cm
+    top_margin: 0.05cm
 
     left_margin: 0.3cm
 
-    vertical_space_between_highlights: 0.15cm
+    vertical_space_between_highlights: 0.08cm
 
     horizontal_space_between_bullet_and_highlight: 0.3em
 
