@@ -8,6 +8,9 @@ children:
   - title: cv
     permalink: /cv/
   - title: divider
+  - title: research
+    permalink: /research/
+  - title: divider
   - title: about
     permalink: /
   - title: divider
