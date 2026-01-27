@@ -23,10 +23,22 @@ module ExternalPosts
     end
 
     def fetch_from_rss(site, src)
-      xml = HTTParty.get(src['rss_url']).body
-      return if xml.nil?
-      feed = Feedjira.parse(xml)
-      process_entries(site, src, feed.entries)
+      begin
+        response = HTTParty.get(src['rss_url'])
+        xml = response.body if response.respond_to?(:body)
+      rescue StandardError => e
+        Jekyll.logger.warn "ExternalPosts:", "Failed to fetch RSS from #{src['rss_url']}: #{e.class} - #{e.message}"
+        return
+      end
+
+      return if xml.nil? || xml.empty?
+
+      begin
+        feed = Feedjira.parse(xml)
+        process_entries(site, src, feed.entries)
+      rescue StandardError => e
+        Jekyll.logger.warn "ExternalPosts:", "Failed to parse RSS from #{src['rss_url']}: #{e.class} - #{e.message}"
+      end
     end
 
     def process_entries(site, src, entries)
@@ -86,7 +98,16 @@ module ExternalPosts
     end
 
     def fetch_content_from_url(url)
-      html = HTTParty.get(url).body
+      begin
+        response = HTTParty.get(url)
+        html = response.body if response.respond_to?(:body)
+      rescue StandardError => e
+        Jekyll.logger.warn "ExternalPosts:", "Failed to fetch content from #{url}: #{e.class} - #{e.message}"
+        html = nil
+      end
+
+      return { title: '', content: '', summary: '' } if html.nil? || html.empty?
+
       parsed_html = Nokogiri::HTML(html)
 
       title = parsed_html.at('head title')&.text.strip || ''
