@@ -651,9 +651,3 @@
 #one-col-entry(content: [#bullet-entry[#link("https://github.com/asimMahat/Stock-Market-Prediction")[Stock Market Prediction] - Achieved 92\% directional accuracy predicting stock trends using LSTM. Work selected for poster presentation at KDSC 2025; full research paper currently in preparation]])
 
 
-== Research
-
-
-#one-col-entry(content: [#bullet-entry[Add your research item here]])
-
-

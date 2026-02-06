@@ -74,6 +74,3 @@
 
 - [Zero Shot Traffic Signal Control](https://github.com/asimMahat/zs_cot_traffic_control) - Engineered an adaptive traffic signal control agent using Llama 3 (via Ollama) for zero-shot reasoning, reducing average intersection wait times by 35% in simulation through real-time decision-making without task-specific training 
 - [Stock Market Prediction](https://github.com/asimMahat/Stock-Market-Prediction) - Achieved 92% directional accuracy predicting stock trends using LSTM. Work selected for poster presentation at KDSC 2025; full research paper currently in preparation
-# Research
-
-- Add your research item here
