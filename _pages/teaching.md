@@ -31,6 +31,4 @@ Supervised and directed 20+ senior design teams across both CS 598 (Senior Desig
 - Overseeing project planning, design, and implementation phases
 - Ensuring project milestones and deliverables were met on schedule
 - Facilitating collaboration and problem-solving within student teams
-- Achieving a 100% project completion rate across all supervised teams
-
-Guided students through the complete software development lifecycle, from initial concept and requirements analysis to final implementation and presentation, helping them develop professional-grade projects that demonstrate their technical skills and engineering capabilities.
+- Achieving a 100% project completion rate across all supervised teamsGuided students through the complete software development lifecycle, from initial concept and requirements analysis to final implementation and presentation, helping them develop professional-grade projects that demonstrate their technical skills and engineering capabilities.

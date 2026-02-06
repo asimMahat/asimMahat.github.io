@@ -467,6 +467,7 @@
 #let connections-list = (
   [#box(original-link("mailto:asimmahat2@gmail.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)asimmahat2\@gmail.com])],
   [#box(original-link("tel:+1-316-670-4392")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(316\) 670-4392])],
+  [#box(original-link("https://asimmahat.github.io/")[#fa-icon("link", size: 0.9em) #h(0.05cm)asimmahat.github.io])],
   [#box(original-link("https://linkedin.com/in/asim-mahat-499aa8163")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)asim-mahat-499aa8163])],
   [#box(original-link("https://github.com/asimMahat")[#fa-icon("github", size: 0.9em) #h(0.05cm)asimMahat])],
 )
@@ -648,5 +649,11 @@
 #one-col-entry(content: [#bullet-entry[#link("https://github.com/asimMahat/zs_cot_traffic_control")[Zero Shot Traffic Signal Control] - Engineered an adaptive traffic signal control agent using Llama 3 \(via Ollama\) for zero-shot reasoning, reducing average intersection wait times by 35\% in simulation through real-time decision-making without task-specific training ]])
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(content: [#bullet-entry[#link("https://github.com/asimMahat/Stock-Market-Prediction")[Stock Market Prediction] - Achieved 92\% directional accuracy predicting stock trends using LSTM. Work selected for poster presentation at KDSC 2025; full research paper currently in preparation]])
+
+
+== Research
+
+
+#one-col-entry(content: [#bullet-entry[Add your research item here]])
 
 
