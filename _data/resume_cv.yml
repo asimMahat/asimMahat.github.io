@@ -196,9 +196,6 @@ cv:
 
       - bullet: "[Stock Market Prediction](https://github.com/asimMahat/Stock-Market-Prediction) - Achieved 92% directional accuracy predicting stock trends using LSTM. Work selected for poster presentation at KDSC 2025; full research paper currently in preparation"
 
-    research:
-      - bullet: "Add your research item here"
-
     # License and Certificates:
 
     #   - bullet: 'Deep Learning A-Z by Udemy'
